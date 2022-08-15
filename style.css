@@ -67,3 +67,10 @@ h2{
 #full-stack-developer{
     border-left: 7px solid darkblue;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
