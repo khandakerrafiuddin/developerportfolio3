@@ -7,6 +7,9 @@ h1{
     font-size: 50px;
     color: orange;
 }
+h2{
+    font-size: 40px;
+}
 .orange-color{
     color: rebeccapurple;
 }
@@ -42,4 +45,25 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    border-right: 5px solid red;
+}
+
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack-developer{
+    border-left: 7px solid darkblue;
 }
